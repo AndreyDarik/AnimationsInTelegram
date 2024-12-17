@@ -6,7 +6,7 @@ api_hash = "YOUR_API_HASH"
 
 app = Client("account", api_id, api_hash)
 
-@app.on_message(filters.regex("сердечки"))
+@app.on_message(filters.regex("YOUR_SPECIFIC_WORD"))
 async def heart(client, message):
     heart_frames = [
         "🤍",
