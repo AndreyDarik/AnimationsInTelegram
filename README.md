@@ -1,5 +1,4 @@
 
-```markdown
 # AnimationsInTelegram
 
 This repository contains examples and implementations of various animations that can be used in Telegram bots. The goal is to provide reusable and customizable animation scripts to enhance user experience in Telegram applications.
