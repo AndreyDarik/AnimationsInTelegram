@@ -61,5 +61,4 @@ We welcome contributions! Please read our [Contributing Guide](CONTRIBUTING.md) 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
 Do not forget to replace placeholders like `YOUR_API` and `YOUR_SPECIFIC_WORD` with the actual values.
